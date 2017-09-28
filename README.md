@@ -14,7 +14,7 @@
 
 ### Webpack
 - 영상
-1. [webpack academy](https://webpack.academy/)
+1. [Webpack academy](https://webpack.academy/)
 
 - 글
 1. [Webpack — The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9)
